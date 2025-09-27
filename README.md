@@ -255,7 +255,7 @@ This project is licensed under the **MIT License** — see the `LICENSE` file fo
 
 ## 👨‍💻 Author
 
-**Ngoubi Maximillian Diamgha**
+**Ngoubi Maximillian Diangha**
 GitHub: [@ngoubimaximillian12](https://github.com/ngoubimaximillian12)
 Email: [ngoubimaximilliandiangha@gmail.com](mailto:ngoubimaximilliandiangha@gmail.com)
 LinkedIn: [https://www.linkedin.com/in/diangha-ngoubi-42a49b281/](https://www.linkedin.com/in/diangha-ngoubi-42a49b281/)
